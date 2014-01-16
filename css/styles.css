@@ -5,3 +5,17 @@
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+h1 {
+	font-family: 'Hanalei Fill', cursive;
+	font-size: 40px;
+}
+
+h3 {
+	font-family: 'Hanalei Fill', cursive;
+	font-size: 30px;
+}
+
+p {
+	font-family: 'Coustard', serif;
+}
